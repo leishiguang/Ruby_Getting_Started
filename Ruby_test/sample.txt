@@ -1,0 +1,3 @@
+First line: This a sample.txt
+Second line: Study hard.
+Third line: Work hard.
