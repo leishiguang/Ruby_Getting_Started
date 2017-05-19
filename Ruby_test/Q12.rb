@@ -15,7 +15,7 @@ def fahr2cels ( fahr )
   return (fahr - 32) * 5.0 / 9.0
 end
 
-(1..100).to_a.each do | num |
+(1..100).each do | num |
   print cels2fahr(num),"\t"
 end
 
