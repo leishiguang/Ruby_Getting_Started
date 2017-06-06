@@ -1,4 +1,4 @@
-puts "Copy the ."
+puts "the key to exercises."
 
 puts "Quesion 1"
 
