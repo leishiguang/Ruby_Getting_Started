@@ -17,3 +17,5 @@ I'm traning with **[たのしいRuby 第4版](https://www.amazon.co.jp/gp/produc
 2017/6/6：
 Made one text-process tool.
 
+2017/6/7
+Begin to learn Ruby with Koans.
