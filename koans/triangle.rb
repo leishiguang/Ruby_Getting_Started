@@ -15,6 +15,22 @@
 #
 def triangle(a, b, c)
   # WRITE THIS CODE
+
+=begin
+  a, b, c = [a, b, c].sort
+  raise TriangleError if a <= 0 || a + b <= c
+  [nil, :equilateral, :isosceles, :scalene][[a, b, c].uniq.size]
+=end
+
+  raise TriangleError.new("It't not a triganle") if(a+b<=c || a+c<=b || b+c<=a)
+  raise TriangleError.new("It't not a triganle") if(a<=0 || b<=0 || c<=0)
+
+  begin
+    return :equilateral if(a==b && b==c)
+    return :scalene if (a!=b && a!=c && b!=c)
+    return :isosceles
+  end
+
 end
 
 # Error class used in part 2.  No need to change this code.
