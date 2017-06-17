@@ -4,7 +4,7 @@
     <list default="true" id="f0537cbc-4dd4-43cd-8362-329a2e6d0195" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/.path_progress" afterPath="$PROJECT_DIR$/koans/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_sandwich_code.rb" afterPath="$PROJECT_DIR$/koans/about_sandwich_code.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_scoring_project.rb" afterPath="$PROJECT_DIR$/koans/about_scoring_project.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@path_to_enlightenment.coverage" NAME="path_to_enlightenment Coverage Results" MODIFIED="1497672367337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koans" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@path_to_enlightenment.coverage" NAME="path_to_enlightenment Coverage Results" MODIFIED="1497678957453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koans" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@my_test_koans.coverage" NAME="my_test_koans Coverage Results" MODIFIED="1496886227817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koans" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Q15.coverage" NAME="Q15 Coverage Results" MODIFIED="1496818767600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ruby_test" MODULE_NAME="Ruby_Getting_Started" />
   </component>
@@ -36,8 +36,28 @@
       <file leaf-file-name="about_scoring_project.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/koans/about_scoring_project.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="371">
+              <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_classes.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_classes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enumerable.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/enumerable.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="696" column="36" lean-forward="true" selection-start-line="696" selection-start-column="36" selection-end-line="696" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -51,6 +71,11 @@
         <option value="Ruby Class Template" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>each</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,6 +104,7 @@
         <option value="$PROJECT_DIR$/koans/about_iteration.rb" />
         <option value="$PROJECT_DIR$/koans/about_blocks.rb" />
         <option value="$PROJECT_DIR$/koans/about_sandwich_code.rb" />
+        <option value="$PROJECT_DIR$/koans/about_scoring_project.rb" />
       </list>
     </option>
   </component>
@@ -89,9 +115,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="y" value="91" />
-    <option name="width" value="1924" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -383,7 +409,7 @@
       <workItem from="1497404960271" duration="2732000" />
       <workItem from="1497492306307" duration="5318000" />
       <workItem from="1497577023955" duration="4101000" />
-      <workItem from="1497669931983" duration="2467000" />
+      <workItem from="1497669931983" duration="5296000" />
     </task>
     <task id="LOCAL-00001" summary="Build project through RubyMine.">
       <created>1496819514886</created>
@@ -441,11 +467,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497581448598</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="solved">
+      <created>1497672414461</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1497672414461</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38690000" />
+    <option name="totallyTimeSpent" value="41519000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,14 +490,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="91" width="1924" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2027897" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" x="878" y="226" width="346" height="600" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20149253" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" x="878" y="226" width="346" height="600" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32698768" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="379" y="639" width="1382" height="301" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2918862" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46996838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32665965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962631" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43835616" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496382" sideWeight="0.50651467" order="2" side_tool="true" content_ui="tabs" />
@@ -524,22 +558,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/koans/about_array_assignment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_hashes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2508">
-          <caret line="114" column="5" lean-forward="true" selection-start-line="105" selection-start-column="2" selection-end-line="114" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_strings.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4312">
@@ -773,6 +791,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -903,10 +922,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/enumerable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="696" column="36" lean-forward="true" selection-start-line="696" selection-start-column="36" selection-end-line="696" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_classes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_scoring_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="371">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
           <folding />
         </state>
       </provider>

@@ -31,7 +31,20 @@ require File.expand_path(File.dirname(__FILE__) + '/neo')
 
 def score(dice)
   # You need to write this method
-end
+  counter = Hash.new(0)
+  result = 0
+  dice.each { |val| counter[val]+=1 }
+  # 处理3个相同的
+  9.times do |i|
+    result += counter[i] / 3 * i * 100
+  end
+  # 处理1
+  result += counter[1] / 3 * 900
+  result += counter[1] % 3 * 100
+  # 处理5
+  result += counter[5] % 3 * 50
+  result
+  end
 
 class AboutScoringProject < Neo::Koan
   def test_score_of_an_empty_list_is_zero
