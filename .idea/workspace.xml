@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0537cbc-4dd4-43cd-8362-329a2e6d0195" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/.path_progress" afterPath="$PROJECT_DIR$/koans/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_message_passing.rb" afterPath="$PROJECT_DIR$/koans/about_message_passing.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_proxy_object_project.rb" afterPath="$PROJECT_DIR$/koans/about_proxy_object_project.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_to_str.rb" afterPath="$PROJECT_DIR$/koans/about_to_str.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,8 +54,8 @@
       <file leaf-file-name="about_to_str.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/koans/about_to_str.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+            <state relative-caret-position="659">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -437,7 +433,7 @@
       <workItem from="1497669931983" duration="6588000" />
       <workItem from="1497751546889" duration="3390000" />
       <workItem from="1497835970086" duration="4202000" />
-      <workItem from="1497921930745" duration="2518000" />
+      <workItem from="1497921930745" duration="3722000" />
     </task>
     <task id="LOCAL-00001" summary="Build project through RubyMine.">
       <created>1496819514886</created>
@@ -523,11 +519,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497838994531</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="solved">
+      <created>1497924472960</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1497924472960</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52921000" />
+    <option name="totallyTimeSpent" value="54125000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -539,7 +542,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20788912" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" x="878" y="226" width="346" height="600" />
@@ -547,7 +550,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="379" y="639" width="1382" height="301" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29157895" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4889357" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4889357" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962631" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43835616" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496382" sideWeight="0.50651467" order="2" side_tool="true" content_ui="tabs" />
@@ -760,6 +763,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -993,8 +997,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_to_str.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+        <state relative-caret-position="659">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>
