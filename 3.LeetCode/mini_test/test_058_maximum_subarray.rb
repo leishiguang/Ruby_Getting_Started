@@ -13,7 +13,7 @@ class Test_053 < Minitest::Test
   end
 
   def test_2
-    assert_equal [1], max_sub_array([2])
+    assert_equal 1, max_sub_array([1])
   end
 
   # Called after every test method runs. Can be used to tear

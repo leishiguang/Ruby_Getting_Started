@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0537cbc-4dd4-43cd-8362-329a2e6d0195" name="Default" comment="test MiniTest">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.LeetCode/mini_test/test_058_maximum_subarray.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3.LeetCode/mini_test/my_test.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Ruby_Getting_Started.iml" afterPath="$PROJECT_DIR$/.idea/Ruby_Getting_Started.iml" />
+    <list default="true" id="f0537cbc-4dd4-43cd-8362-329a2e6d0195" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/mini_test/053. test_maximum_subarray.rb" afterPath="$PROJECT_DIR$/3.LeetCode/mini_test/test_058_maximum_subarray.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.LeetCode/053.maximun_subarray.rb" afterPath="$PROJECT_DIR$/3.LeetCode/053.maximun_subarray.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.LeetCode/mini_test/test_058_maximum_subarray.rb" afterPath="$PROJECT_DIR$/3.LeetCode/mini_test/test_058_maximum_subarray.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +15,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_name_is_ting_2__Ruby_Getting_Started.coverage" NAME="test_name_is_ting_2: Ruby_Getting_Started Coverage Results" MODIFIED="1504752725309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
-    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__Test_053___Ruby_Getting_Started.coverage" NAME="Run test 'Test_053': Ruby_Getting_Started Coverage Results" MODIFIED="1504755022308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__Test_053___Ruby_Getting_Started.coverage" NAME="Run test 'Test_053': Ruby_Getting_Started Coverage Results" MODIFIED="1504839538860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@path_to_enlightenment.coverage" NAME="path_to_enlightenment Coverage Results" MODIFIED="1497924447212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koans" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_2__Ruby_Getting_Started.coverage" NAME="test_2: Ruby_Getting_Started Coverage Results" MODIFIED="1504754049124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@about_methods.coverage" NAME="about_methods Coverage Results" MODIFIED="1502768561934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.koans" MODULE_NAME="Ruby_Getting_Started" />
@@ -53,18 +51,28 @@
       <file leaf-file-name="001.test_Test.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/001.test_Test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_058_maximum_subarray.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_058_maximum_subarray.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_058_maximum_subarray.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            <state relative-caret-position="22">
+              <caret line="1" column="46" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="058.length_of_last_word.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/058.length_of_last_word.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -73,18 +81,48 @@
       <file leaf-file-name="053.maximun_subarray.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.LeetCode/053.maximun_subarray.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="220">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="038.count_and_say.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.LeetCode/038.count_and_say.rb">
+      <file leaf-file-name="009.palindrome_number.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/009.palindrome_number.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="008.string_to_integer.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/008.string_to_integer.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="005.longest_palindromic_substring.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/005.longest_palindromic_substring.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="001.two_sum.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/001.two_sum.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -159,12 +197,12 @@
         <option value="$PROJECT_DIR$/3.LeetCode/058.length_of_last_word.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/mini_test/001.test_two_sum.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/000.Test.rb" />
-        <option value="$PROJECT_DIR$/3.LeetCode/053.maximun_subarray.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/mini_test/053.test_maximun_subarray.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/mini_test/001.test_Test.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/mini_test/my_test.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/mini_test/053. test_maximum_subarray.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/mini_test/test_058_maximum_subarray.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/053.maximun_subarray.rb" />
       </list>
     </option>
   </component>
@@ -175,9 +213,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="104" />
+    <option name="y" value="43" />
+    <option name="width" value="1128" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -212,7 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -259,6 +296,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -500,7 +538,8 @@
       <workItem from="1502761638578" duration="2592000" />
       <workItem from="1502768642228" duration="1309000" />
       <workItem from="1504750923179" duration="3833000" />
-      <workItem from="1504754892999" duration="146000" />
+      <workItem from="1504754892999" duration="665000" />
+      <workItem from="1504838089828" duration="1702000" />
     </task>
     <task id="LOCAL-00001" summary="Build project through RubyMine.">
       <created>1496819514886</created>
@@ -649,21 +688,28 @@
       <option name="project" value="LOCAL" />
       <updated>1504754698219</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="test MiniTest">
+      <created>1504755049525</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1504755049525</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_test_'Test_053'__Ruby_Getting_Started - 2017.09.07 at 11h 14m 38s.xml">
+    <history-entry file="Run_test_'Test_053'__Ruby_Getting_Started - 2017.09.08 at 10h 41m 30s.xml">
       <configuration name="Run test 'Test_053': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'Test_053'__Ruby_Getting_Started - 2017.09.07 at 11h 30m 22s.xml">
+    <history-entry file="Run_test_'Test_053'__Ruby_Getting_Started - 2017.09.08 at 10h 41m 55s.xml">
       <configuration name="Run test 'Test_053': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="test_2__Ruby_Getting_Started - 2017.09.07 at 11h 12m 09s.xml">
-      <configuration name="test_2: Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'Test_053'__Ruby_Getting_Started - 2017.09.08 at 10h 57m 36s.xml">
+      <configuration name="Run test 'Test_053': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="test_2__Ruby_Getting_Started - 2017.09.07 at 11h 12m 19s.xml">
-      <configuration name="test_2: Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'Test_053'__Ruby_Getting_Started - 2017.09.08 at 10h 58m 59s.xml">
+      <configuration name="Run test 'Test_053': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
     <history-entry file="test_2__Ruby_Getting_Started - 2017.09.07 at 11h 12m 50s.xml">
       <configuration name="test_2: Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
@@ -685,7 +731,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78017000" />
+    <option name="totallyTimeSpent" value="80238000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -697,24 +743,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="104" y="43" width="1128" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" x="878" y="226" width="346" height="600" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32698768" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32751676" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="379" y="639" width="1382" height="301" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37078652" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" x="878" y="226" width="346" height="600" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32665965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32665965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="379" y="639" width="1382" height="301" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0067114094" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28767124" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37934667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37934667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962631" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27340424" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496382" sideWeight="0.50651467" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39840183" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22655427" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0067114094" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -766,16 +813,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/enumerable.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15312">
-          <caret line="696" column="36" lean-forward="false" selection-start-line="696" selection-start-column="36" selection-end-line="696" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_scoring_project.rb" />
-    <entry file="file://$PROJECT_DIR$/koans/about_open_classes.rb" />
-    <entry file="file://$PROJECT_DIR$/koans/about_classes.rb" />
     <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/kernel.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="707">
@@ -795,13 +832,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1056">
           <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/005.longest_palindromic_substring.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -826,13 +856,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/018.4sum.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="90" column="4" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.LeetCode/024.swap_nodes_in_pairs.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -851,27 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/007.reverse_integer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/008.string_to_integer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/058.length_of_last_word.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -903,13 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/001.two_sum.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.koans/about_arrays.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -921,7 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,14 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/002.add_two_numbers.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -991,42 +977,109 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/my_script.rb" />
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/053.maximun_subarray.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/my_test.rb" />
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/053. test_maximum_subarray.rb" />
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_ddddd.rb" />
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/002.add_two_numbers.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="-401">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/007.reverse_integer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/018.4sum.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="90" column="4" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/035.search_insert_position.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/013.roman_to_interger.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/009.palindrome_number.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/008.string_to_integer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/005.longest_palindromic_substring.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001.two_sum.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/001.test_Test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/my_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/053. test_maximum_subarray.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="60" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="3" />
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_058_maximum_subarray.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        <state relative-caret-position="22">
+          <caret line="1" column="46" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/053.maximun_subarray.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/058.length_of_last_word.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding />
         </state>
       </provider>
