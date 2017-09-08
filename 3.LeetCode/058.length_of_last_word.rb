@@ -4,7 +4,7 @@ def length_of_last_word(s)
   return 0 if s.nil?
   arr = s.split.last
   return 0 if arr.nil?
-  return arr.length
+  arr.length
 end
 
 
