@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require File.dirname(__FILE__) + '/../066.plus_one'
+require File.dirname(__FILE__) + '/../../001-100/066.plus_one'
 
 class Test_066 < Minitest::Test
 

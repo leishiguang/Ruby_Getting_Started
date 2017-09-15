@@ -1,5 +1,6 @@
 require 'minitest/autorun'
-require File.dirname(__FILE__) + '/../017.letter_combinations_of_a_phone_number'
+require File.dirname(__FILE__) + '/../../001-100/017.letter_combinations_of_a_phone_number'
+require File.dirname(__FILE__) + '/../../common/compare_array'
 
 class Test_017 < Minitest::Test
 
@@ -98,62 +99,13 @@ class Test_017 < Minitest::Test
 
   def test_letter_combinations_345
     input = '345'
-    expected = %w(dgj dgk dgl dhj dhk dhl dij dik dil egj egk egl ehj ehk ehl eij eik eil fgj fgk fgl fhj fhk fhl fij fik fil)
+    expected = %w(dgj dgk dgl dhj dhk dhl dij dik dil egj
+                  egk egl ehj ehk ehl eij eik eil fgj fgk
+                  fgl fhj fhk fhl fij fik fil)
     output = letter_combinations(input)
     assert_equal true,is_array_element_equal(expected,output)
   end
 
-
-
-
-  def test_arrary_equal_0
-    input = []
-    output = []
-    assert_equal true, is_array_element_equal(input,output)
-  end
-
-
-  def test_arrary_equal_1
-    input = [2, 1]
-    output = [1, 2]
-    assert_equal true, is_array_element_equal(input,output)
-  end
-
-  def test_arrary_equal_2
-    input = [3, 1]
-    output = [1, 2]
-    assert_equal false, is_array_element_equal(input,output)
-  end
-
-  def test_arrary_equal_3
-    input = [1, 3, 2]
-    output = [1, 2]
-    assert_equal false, is_array_element_equal(input,output)
-  end
-
-  def test_arrary_equal_4
-    input = [1, 3, 2]
-    output = [2, 4, 1]
-    assert_equal false, is_array_element_equal(input,output)
-  end
-
-  def test_arrary_equal_5
-    input = [1, 2, 4, 3, 5, 6]
-    output = [6, 5, 4, 2, 3, 1]
-    assert_equal true, is_array_element_equal(input,output)
-  end
-
-  def test_arrary_equal_6
-    input = %w(a b c d e f)
-    output = %w(f a b c d e)
-    assert_equal true, is_array_element_equal(input,output)
-  end
-
-  def test_arrary_equal_7
-    input = %w(a b c d e f)
-    output = %w(f a b c d p)
-    assert_equal false, is_array_element_equal(input,output)
-  end
 
   def teardown
     # Do nothing

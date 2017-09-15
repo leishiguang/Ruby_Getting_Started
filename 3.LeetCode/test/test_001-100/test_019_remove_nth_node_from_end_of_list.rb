@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require File.dirname(__FILE__) + '/../019.remove_nth_node_from_end_of_list'
+require File.dirname(__FILE__) + '/../../001-100/019.remove_nth_node_from_end_of_list'
 
 class Test_019 < Minitest::Test
 

@@ -2,10 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0537cbc-4dd4-43cd-8362-329a2e6d0195" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.LeetCode/017.letter_combinations_of_a_phone_number.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.LeetCode/mini_test/test_017_letter_combinations_of_a_phone_number.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.LeetCode/common/compare_array.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.LeetCode/test/test_001-100.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.LeetCode/test/test_all.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.LeetCode/test/test_common.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.LeetCode/test/test_common/test_compare_array.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3.LeetCode/000.Test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3.LeetCode/mini_test/001.test_Test.rb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Ruby_Getting_Started.iml" afterPath="$PROJECT_DIR$/.idea/Ruby_Getting_Started.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/001.two_sum.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/001.two_sum.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/002.add_two_numbers.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/002.add_two_numbers.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/003.longest_substring_without_repeating_characters.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/003.longest_substring_without_repeating_characters.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/005.longest_palindromic_substring.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/005.longest_palindromic_substring.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/006.zigzag_conversion.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/006.zigzag_conversion.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/007.reverse_integer.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/007.reverse_integer.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/008.string_to_integer.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/008.string_to_integer.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/009.palindrome_number.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/009.palindrome_number.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/011.container_with_most_water.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/011.container_with_most_water.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/012.integer_to_roman.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/012.integer_to_roman.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/013.roman_to_interger.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/013.roman_to_interger.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/014.longest_common_prefix.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/014.longest_common_prefix.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/015.3_sum.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/015.3_sum.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/016.3sum_closest.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/016.3sum_closest.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/017.letter_combinations_of_a_phone_number.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/017.letter_combinations_of_a_phone_number.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/018.4sum.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/018.4sum.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/019.remove_nth_node_from_end_of_list.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/019.remove_nth_node_from_end_of_list.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/020.valid_parentheses.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/020.valid_parentheses.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/021.merge_two_sorted_lists.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/021.merge_two_sorted_lists.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/024.swap_nodes_in_pairs.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/024.swap_nodes_in_pairs.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/026.remove_duplicates_from_sorted_array.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/026.remove_duplicates_from_sorted_array.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/027.remove_element.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/027.remove_element.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/028.implement_strStr().rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/028.implement_strStr().rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/035.search_insert_position.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/035.search_insert_position.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/038.count_and_say.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/038.count_and_say.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/053.maximun_subarray.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/053.maximun_subarray.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/058.length_of_last_word.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/058.length_of_last_word.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/066.plus_one.rb" afterPath="$PROJECT_DIR$/3.LeetCode/001-100/066.plus_one.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/mini_test/test_017_letter_combinations_of_a_phone_number.rb" afterPath="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_017_letter_combinations_of_a_phone_number.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/mini_test/test_019_remove_nth_node_from_end_of_list.rb" afterPath="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_019_remove_nth_node_from_end_of_list.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/mini_test/test_053_maximum_subarray.rb" afterPath="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_053_maximum_subarray.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/mini_test/test_058_length_of_last_word.rb" afterPath="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_058_length_of_last_word.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.LeetCode/mini_test/test_066_plus_one.rb" afterPath="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_066_plus_one.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,24 +60,30 @@
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__Test_066___Ruby_Getting_Started.coverage" NAME="Run test 'Test_066': Ruby_Getting_Started Coverage Results" MODIFIED="1505115031540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Q15.coverage" NAME="Q15 Coverage Results" MODIFIED="1496818767600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ruby_test" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@053_maximun_subarray.coverage" NAME="053.maximun_subarray Coverage Results" MODIFIED="1504753829792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.LeetCode" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__Test_compare_array___Ruby_Getting_Started.coverage" NAME="Run test 'Test_compare_array': Ruby_Getting_Started Coverage Results" MODIFIED="1505445951830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@my_test_koans.coverage" NAME="my_test_koans Coverage Results" MODIFIED="1496886227817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koans" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_name_is_towonzhou__Ruby_Getting_Started.coverage" NAME="test_name_is_towonzhou: Ruby_Getting_Started Coverage Results" MODIFIED="1502768182305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_make_list_node__Ruby_Getting_Started.coverage" NAME="test_make_list_node: Ruby_Getting_Started Coverage Results" MODIFIED="1505273606696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_name_is_ting__Ruby_Getting_Started.coverage" NAME="test_name_is_ting: Ruby_Getting_Started Coverage Results" MODIFIED="1504753754302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__Test_019___Ruby_Getting_Started.coverage" NAME="Run test 'Test_019': Ruby_Getting_Started Coverage Results" MODIFIED="1505282871676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_name_is_ting_2__Ruby_Getting_Started.coverage" NAME="test_name_is_ting_2: Ruby_Getting_Started Coverage Results" MODIFIED="1504752725309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
-    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@path_to_enlightenment.coverage" NAME="path_to_enlightenment Coverage Results" MODIFIED="1497924447212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koans" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@path_to_enlightenment.coverage" NAME="path_to_enlightenment Coverage Results" MODIFIED="1505447033222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.koans" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_common.coverage" NAME="test_common Coverage Results" MODIFIED="1505447589874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.LeetCode/test" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@about_methods.coverage" NAME="about_methods Coverage Results" MODIFIED="1502768561934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.koans" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@053_test_maximun_subarray.coverage" NAME="053.test_maximun_subarray Coverage Results" MODIFIED="1504753032769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.LeetCode/mini_test" MODULE_NAME="Ruby_Getting_Started" />
-    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__Test_017___Ruby_Getting_Started.coverage" NAME="Run test 'Test_017': Ruby_Getting_Started Coverage Results" MODIFIED="1505366507063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__Test_017___Ruby_Getting_Started.coverage" NAME="Run test 'Test_017': Ruby_Getting_Started Coverage Results" MODIFIED="1505446256395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__TestPeople___Ruby_Getting_Started__1_.coverage" NAME="Run test 'TestPeople': Ruby_Getting_Started (1) Coverage Results" MODIFIED="1504752936548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@about_triangle_project_2.coverage" NAME="about_triangle_project_2 Coverage Results" MODIFIED="1505447021207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.koans" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__001_test_Test___Ruby_Getting_Started.coverage" NAME="Run test '001.test_Test': Ruby_Getting_Started Coverage Results" MODIFIED="1504753777630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@053__test_maximum_subarray.coverage" NAME="053. test_maximum_subarray Coverage Results" MODIFIED="1504755020764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.LeetCode/mini_test" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__TestPeople___Ruby_Getting_Started.coverage" NAME="Run test 'TestPeople': Ruby_Getting_Started Coverage Results" MODIFIED="1504751973337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_1__Ruby_Getting_Started.coverage" NAME="test_1: Ruby_Getting_Started Coverage Results" MODIFIED="1504840250333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@003_longest_substring_without_repeating_characters.coverage" NAME="003.longest_substring_without_repeating_characters Coverage Results" MODIFIED="1502768575333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.LeetCode" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@Run_test__test_058_length_of_last_word___Ruby_Getting_Started.coverage" NAME="Run test 'test_058_length_of_last_word': Ruby_Getting_Started Coverage Results" MODIFIED="1504840265186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_letter_combinations_345__Ruby_Getting_Started.coverage" NAME="test_letter_combinations_345: Ruby_Getting_Started Coverage Results" MODIFIED="1505446254076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
     <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_name_is_ting_2__Ruby_Getting_Started__1_.coverage" NAME="test_name_is_ting_2: Ruby_Getting_Started (1) Coverage Results" MODIFIED="1504752835357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@proc1.coverage" NAME="proc1 Coverage Results" MODIFIED="1505444566655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.Ruby_mytest/たのしいRuby4th" MODULE_NAME="Ruby_Getting_Started" />
+    <SUITE FILE_PATH="coverage/Ruby_Getting_Started@test_all.coverage" NAME="test_all Coverage Results" MODIFIED="1505447720930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.LeetCode/test" MODULE_NAME="Ruby_Getting_Started" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -56,21 +100,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="017.letter_combinations_of_a_phone_number.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.LeetCode/017.letter_combinations_of_a_phone_number.rb">
+      <file leaf-file-name="test_017_letter_combinations_of_a_phone_number.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_017_letter_combinations_of_a_phone_number.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+            <state relative-caret-position="44">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_017_letter_combinations_of_a_phone_number.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_017_letter_combinations_of_a_phone_number.rb">
+      <file leaf-file-name="koans.watchr" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.koans/koans.watchr">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="72" column="39" lean-forward="false" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GREED_RULES.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.koans/GREED_RULES.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example_file.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.koans/example_file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_058_length_of_last_word.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_058_length_of_last_word.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_066_plus_one.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_066_plus_one.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_common.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_common.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="53" lean-forward="false" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_compare_array.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_common/test_compare_array.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_all.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_all.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_001-100.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,20 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/koans/about_arrays.rb" />
-        <option value="$PROJECT_DIR$/koans/about_array_assignment.rb" />
-        <option value="$PROJECT_DIR$/koans/about_hashes.rb" />
-        <option value="$PROJECT_DIR$/koans/about_strings.rb" />
-        <option value="$PROJECT_DIR$/koans/about_symbols.rb" />
-        <option value="$PROJECT_DIR$/koans/about_regular_expressions.rb" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/koans/about_methods.rb" />
-        <option value="$PROJECT_DIR$/koans/about_keyword_arguments.rb" />
-        <option value="$PROJECT_DIR$/koans/about_constants.rb" />
-        <option value="$PROJECT_DIR$/koans/about_control_statements.rb" />
-        <option value="$PROJECT_DIR$/koans/about_true_and_false.rb" />
-        <option value="$PROJECT_DIR$/koans/about_exceptions.rb" />
-        <option value="$PROJECT_DIR$/koans/triangle.rb" />
         <option value="$PROJECT_DIR$/koans/about_iteration.rb" />
         <option value="$PROJECT_DIR$/koans/about_blocks.rb" />
         <option value="$PROJECT_DIR$/koans/about_sandwich_code.rb" />
@@ -152,8 +262,22 @@
         <option value="$PROJECT_DIR$/3.LeetCode/mini_test/test_066_plus_one.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/mini_test/test_019_remove_nth_node_from_end_of_list.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/019.remove_nth_node_from_end_of_list.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/common/compare_array.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/017.letter_combinations_of_a_phone_number.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/common/test/test_compare_array.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/common/common.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/common/test/test_common.rb" />
         <option value="$PROJECT_DIR$/3.LeetCode/mini_test/test_017_letter_combinations_of_a_phone_number.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/mini_test/000.test_all.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_017_letter_combinations_of_a_phone_number.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_019_remove_nth_node_from_end_of_list.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_053_maximum_subarray.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_058_length_of_last_word.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_066_plus_one.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/test/test_common.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/test/test_common/test_compare_array.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/test/test_001-100.rb" />
+        <option value="$PROJECT_DIR$/3.LeetCode/test/test_all.rb" />
       </list>
     </option>
   </component>
@@ -206,7 +330,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,7 +352,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="3.LeetCode" />
+              <option name="myItemId" value="9.Ruby_mytest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -247,12 +370,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mini_test" />
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ruby_Getting_Started" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ruby_Getting_Started" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_001-100" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ruby_Getting_Started" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ruby_Getting_Started" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ruby_Getting_Started" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ruby_Getting_Started" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2.koans" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -260,6 +434,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/3.LeetCode/mini_test/053. test_maximum_subarray.rb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\5.RubyMine_workspace\Ruby_Getting_Started\3.LeetCode\test" />
+      <recent name="I:\5.RubyMine_workspace\Ruby_Getting_Started\3.LeetCode\test\test_common" />
+      <recent name="I:\5.RubyMine_workspace\Ruby_Getting_Started\3.LeetCode\test\001-100" />
+      <recent name="I:\5.RubyMine_workspace\Ruby_Getting_Started\3.LeetCode\001-100" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -273,97 +455,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.Run test 'Test_017': Ruby_Getting_Started">
-    <configuration default="false" name="019.remove_nth_node_from_end_of_list" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Ruby_Getting_Started" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/3.LeetCode" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/3.LeetCode/019.remove_nth_node_from_end_of_list.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test_make_list_node: Ruby_Getting_Started" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="Ruby_Getting_Started" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/3.LeetCode/mini_test/test_019_remove_nth_node_from_end_of_list.rb" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_make_list_node" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Run test 'Test_019': Ruby_Getting_Started" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="Ruby_Getting_Started" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/3.LeetCode/mini_test/test_019_remove_nth_node_from_end_of_list.rb" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test_2: Ruby_Getting_Started" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="Ruby_Getting_Started" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/3.LeetCode/mini_test/test_017_letter_combinations_of_a_phone_number.rb" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_2" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Ruby.test_all">
     <configuration default="false" name="Run test 'Test_017': Ruby_Getting_Started" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="Ruby_Getting_Started" />
@@ -379,7 +471,7 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/3.LeetCode/mini_test/test_017_letter_combinations_of_a_phone_number.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="I:\5.RubyMine_workspace\Ruby_Getting_Started\3.LeetCode\test\test_001-100\test_017_letter_combinations_of_a_phone_number.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
@@ -387,6 +479,66 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="about_triangle_project_2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby_Getting_Started" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/2.koans" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/2.koans/about_triangle_project_2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="path_to_enlightenment" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby_Getting_Started" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/2.koans" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/2.koans/path_to_enlightenment.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_all" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby_Getting_Started" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/3.LeetCode/test" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/3.LeetCode/test/test_all.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_common" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby_Getting_Started" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/3.LeetCode/test" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/3.LeetCode/test/test_common.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -517,19 +669,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.019.remove_nth_node_from_end_of_list" />
-      <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_make_list_node: Ruby_Getting_Started" />
-      <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'Test_019': Ruby_Getting_Started" />
-      <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_2: Ruby_Getting_Started" />
-      <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'Test_017': Ruby_Getting_Started" />
+      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'Test_017': Ruby_Getting_Started" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.about_triangle_project_2" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.path_to_enlightenment" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.test_all" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.test_common" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'Test_017': Ruby_Getting_Started" />
-        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_2: Ruby_Getting_Started" />
-        <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'Test_019': Ruby_Getting_Started" />
-        <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_make_list_node: Ruby_Getting_Started" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.019.remove_nth_node_from_end_of_list" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.test_all" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.test_common" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.path_to_enlightenment" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.about_triangle_project_2" />
+        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'Test_017': Ruby_Getting_Started" />
       </list>
     </recent_temporary>
   </component>
@@ -579,7 +731,8 @@
       <workItem from="1504838089828" duration="2702000" />
       <workItem from="1505111260574" duration="6019000" />
       <workItem from="1505269930778" duration="10016000" />
-      <workItem from="1505356940450" duration="5462000" />
+      <workItem from="1505356940450" duration="5616000" />
+      <workItem from="1505444488957" duration="3243000" />
     </task>
     <task id="LOCAL-00001" summary="Build project through RubyMine.">
       <created>1496819514886</created>
@@ -763,28 +916,17 @@
       <option name="project" value="LOCAL" />
       <updated>1505283206398</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="solved">
+      <created>1505366775023</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1505366775023</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.14 at 13h 17m 04s.xml">
-      <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.14 at 13h 18m 15s.xml">
-      <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.14 at 13h 20m 06s.xml">
-      <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.14 at 13h 20m 39s.xml">
-      <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.14 at 13h 21m 15s.xml">
-      <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.14 at 13h 21m 28s.xml">
-      <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.14 at 13h 21m 38s.xml">
       <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
@@ -797,9 +939,27 @@
     <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.14 at 13h 21m 47s.xml">
       <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.14 at 13h 27m 30s.xml">
+      <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.15 at 11h 30m 50s.xml">
+      <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'Test_017'__Ruby_Getting_Started - 2017.09.15 at 11h 30m 56s.xml">
+      <configuration name="Run test 'Test_017': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'Test_compare_array'__Ruby_Getting_Started - 2017.09.15 at 11h 25m 52s.xml">
+      <configuration name="Run test 'Test_compare_array': Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_letter_combinations_345__Ruby_Getting_Started - 2017.09.15 at 11h 30m 43s.xml">
+      <configuration name="test_letter_combinations_345: Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_letter_combinations_345__Ruby_Getting_Started - 2017.09.15 at 11h 30m 54s.xml">
+      <configuration name="test_letter_combinations_345: Ruby_Getting_Started" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102735000" />
+    <option name="totallyTimeSpent" value="106132000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -814,12 +974,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23081024" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" x="878" y="226" width="346" height="600" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23347548" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" x="878" y="226" width="346" height="600" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32665965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32665965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="379" y="639" width="1382" height="301" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28767124" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4073673" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25785482" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962631" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27302274" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496382" sideWeight="0.50651467" order="2" side_tool="true" content_ui="tabs" />
@@ -884,105 +1044,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://I:/1.Project_Action/0.Ruby/Ruby22-x64/lib/ruby/2.2.0/rdoc/i18n/locale.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/011.container_with_most_water.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/015.3_sum.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/016.3sum_closest.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="26" lean-forward="false" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/024.swap_nodes_in_pairs.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/006.zigzag_conversion.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/012.integer_to_roman.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.koans/about_class_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.koans/README.rdoc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.koans/about_symbols.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.koans/about_arrays.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.koans/about_asserts.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.koans/about_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/003.longest_substring_without_repeating_characters.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/053.erb" />
     <entry file="file://$PROJECT_DIR$/2.koans/about_array_assignment.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -994,7 +1055,7 @@
     <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/053.test_maximun_subarray.rb" />
     <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/my_test_spec.rb" />
     <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/053.test_maximum_subarray.rb" />
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/038.count_and_say.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/038.count_and_say.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1005,116 +1066,87 @@
     <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/my_test.rb" />
     <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/053. test_maximum_subarray.rb" />
     <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_ddddd.rb" />
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/002.add_two_numbers.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/002.add_two_numbers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-401">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/007.reverse_integer.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/007.reverse_integer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/018.4sum.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/018.4sum.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="501">
           <caret line="90" column="4" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/035.search_insert_position.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/035.search_insert_position.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/013.roman_to_interger.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/013.roman_to_interger.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/009.palindrome_number.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/009.palindrome_number.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/008.string_to_integer.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/008.string_to_integer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1034">
           <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/005.longest_palindromic_substring.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/005.longest_palindromic_substring.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/001.two_sum.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/001.two_sum.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_058_length_of_last_word.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_066_plus_one.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/058.length_of_last_word.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/058.length_of_last_word.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/053.maximun_subarray.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/053.maximun_subarray.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/066.plus_one.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/066.plus_one.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_053_maximum_subarray.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/000.Test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1125,18 +1157,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/019.remove_nth_node_from_end_of_list.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/019.remove_nth_node_from_end_of_list.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.koans/path_to_enlightenment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1145,23 +1169,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.koans/neo.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="410" column="8" lean-forward="false" selection-start-line="410" selection-start-column="8" selection-end-line="410" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_019_remove_nth_node_from_end_of_list.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,24 +1182,200 @@
     </entry>
     <entry file="file://I:/1.Project_Action/0.Ruby/Ruby22-x64/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib/minitest/test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+        <state relative-caret-position="237">
+          <caret line="179" column="17" lean-forward="true" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/mini_test/test_017_letter_combinations_of_a_phone_number.rb">
+    <entry file="file://$PROJECT_DIR$/9.Ruby_mytest/たのしいRuby4th/proc1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.Ruby_mytest/たのしいRuby4th/Q12.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.Ruby_mytest/たのしいRuby4th/total.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/common/compare_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/001-100/017.letter_combinations_of_a_phone_number.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="72" column="39" lean-forward="false" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.LeetCode/017.letter_combinations_of_a_phone_number.rb">
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/common/common.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/000.Test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.koans/about_scoring_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.koans/about_triangle_project_2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.koans/path_to_enlightenment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.koans/neo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2221">
+          <caret line="410" column="8" lean-forward="false" selection-start-line="410" selection-start-column="8" selection-end-line="410" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.koans/about_variable_scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_019_remove_nth_node_from_end_of_list.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_053_maximum_subarray.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_058_length_of_last_word.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_066_plus_one.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_common/test_compare_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_common.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="53" lean-forward="false" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_all.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.koans/koans.watchr">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.koans/GREED_RULES.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.koans/example_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.LeetCode/test/test_001-100/test_017_letter_combinations_of_a_phone_number.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>

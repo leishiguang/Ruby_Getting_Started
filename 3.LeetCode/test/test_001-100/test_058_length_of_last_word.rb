@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require File.dirname(__FILE__) + '/../058.length_of_last_word'
+require File.dirname(__FILE__) + '/../../001-100/058.length_of_last_word'
 class Test_058 < Minitest::Test
 
   # Called before every test method runs. Can be used

@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require File.dirname(__FILE__) + '/../053.maximun_subarray'
+require File.dirname(__FILE__) + '/../../001-100/053.maximun_subarray'
 class Test_053 < Minitest::Test
 
   # Called before every test method runs. Can be used
