@@ -10,7 +10,7 @@ class TEST_091 < Minitest::Test
   end
 
   def test_num_decodings_eq_0
-    inputs = %w(0 01 010 abn)
+    inputs = %w(0 01 010)
     expect = 0
     inputs.each do |input|
       assert_equal expect, num_decodings(input)
@@ -18,7 +18,7 @@ class TEST_091 < Minitest::Test
   end
 
   def test_num_decodings_include_0
-    inputs = %w(10 110 101)
+    inputs = %w(10 20  110 101)
     expect = 1
     inputs.each do |input|
       assert_equal expect, num_decodings(input)
@@ -33,9 +33,10 @@ class TEST_091 < Minitest::Test
     end
   end
 
-  def test_num_decodings_10_to_26
+  def test_num_decodings_11_to_26
     expect = 2
-    (10..26).each do |i|
+    (11..26).each do |i|
+      next if i % 10 == 0
       input = i.to_s
       assert_equal expect, num_decodings(input)
     end
@@ -44,7 +45,16 @@ class TEST_091 < Minitest::Test
   def test_num_decodings_27_to_99
     expect = 1
     (27..99).each do |i|
+      next if i % 10 == 0
       input = i.to_s
+      assert_equal expect, num_decodings(input)
+    end
+  end
+
+  def test_num_decodings_30
+    inputs = %w(30 40 50 60 70 80 90 100)
+    expect = 0
+    inputs.each do |input|
       assert_equal expect, num_decodings(input)
     end
   end
